@@ -1,0 +1,2 @@
+communicate.c:19:6:CCD_UART_SendData	16	static
+communicate.c:31:6:IPC_UART_SendData	16	static

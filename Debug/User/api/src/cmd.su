@@ -1,0 +1,11 @@
+cmd.c:31:13:Update_Current_X_Degree_To_Upper	24	static
+cmd.c:44:13:Update_Current_Y_Degree_To_Upper	24	static
+cmd.c:57:13:Update_Welding_State_To_Upper	24	static
+cmd.c:70:13:Update_Current_Warning_To_Upper	16	static
+cmd.c:83:13:Update_Current_Temperature_To_Upper	24	static
+cmd.c:97:13:Update_Current_Humidity_To_Upper	24	static
+cmd.c:111:13:Update_Current_Welding_Length_To_Upper	32	static
+cmd.c:127:13:Update_Total_Welding_Length_To_Upper	32	static
+cmd.c:143:13:Update_Current_Data_And_Time_To_Upper	32	static
+cmd.c:162:13:Update_Weld_Track_State_To_Upper	24	static
+cmd.c:181:6:Cmd_Handle	56	static

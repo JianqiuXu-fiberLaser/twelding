@@ -1,0 +1,7 @@
+m24512.c:7:9:M24512_WriteBuffer	24	static
+m24512.c:28:16:M24512_WriteByte	24	static
+m24512.c:81:9:M24512_ReadBuffer	32	static
+m24512.c:143:16:M24512_ReadByte	24	static
+m24512.c:187:9:M24512_ReadAddr	24	static
+m24512.c:213:6:M24512_TEST	264	static
+m24512.c:232:9:M24512_CHECK	16	static

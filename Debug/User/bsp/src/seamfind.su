@@ -1,0 +1,17 @@
+seamfind.c:38:17:pretreat	48	static
+seamfind.c:87:8:vector	24	static
+seamfind.c:101:9:matrix	24	static
+seamfind.c:124:6:ivector	24	static
+seamfind.c:137:6:free_vector	16	static
+seamfind.c:147:6:free_ivector	16	static
+seamfind.c:157:6:free_matrix	32	static
+seamfind.c:173:6:covsrt	40	static
+seamfind.c:205:6:gaussj	80	static
+seamfind.c:329:6:seamdata	48	static
+seamfind.c:359:6:mrqcof	72	static
+seamfind.c:430:6:mrqmin	64	static
+seamfind.c:524:7:lightPeak	40	static
+seamfind.c:551:7:seekSeam	72	static
+seamfind.c:591:14:motion_dis	24	static
+seamfind.c:604:13:motor_action	16	static
+seamfind.c:622:6:find_seam	40	static

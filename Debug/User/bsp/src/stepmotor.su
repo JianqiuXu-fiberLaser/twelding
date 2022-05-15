@@ -1,0 +1,6 @@
+stepmotor.c:28:13:stepmotor_x_pulse	16	static
+stepmotor.c:45:13:stepmotor_y_pulse	16	static
+stepmotor.c:66:6:stepmotor_x_run	24	static
+stepmotor.c:90:6:stepmotor_y_run	24	static
+stepmotor.c:119:9:stepmotor_x_find_zero	16	static
+stepmotor.c:143:9:stepmotor_y_find_zero	16	static

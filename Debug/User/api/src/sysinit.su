@@ -1,0 +1,4 @@
+sysinit.c:24:6:software_init	4	static
+sysinit.c:37:6:get_eeprom_data	24	static
+sysinit.c:54:6:set_eeprom_data	4	static
+sysinit.c:65:6:check_machine	4	static

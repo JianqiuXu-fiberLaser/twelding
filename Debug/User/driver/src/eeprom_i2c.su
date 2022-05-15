@@ -1,0 +1,8 @@
+eeprom_i2c.c:3:6:i2c_delay	24	static,ignoring_inline_asm
+eeprom_i2c.c:19:6:i2c_start	8	static
+eeprom_i2c.c:29:6:i2c_stop	8	static
+eeprom_i2c.c:39:9:i2c_waitack	16	static
+eeprom_i2c.c:62:6:i2c_sendack	8	static
+eeprom_i2c.c:72:6:i2c_sendnack	8	static
+eeprom_i2c.c:86:6:i2c_write_one_byte	24	static
+eeprom_i2c.c:113:9:i2c_read_one_byte	16	static
